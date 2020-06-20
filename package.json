@@ -1,0 +1,48 @@
+{
+    "name": "ReactPageLogin",
+    "version": "2.0.0",
+    "authors": "JeffersonLucio",
+    "license": "MIT",
+    "homepage": "https://github.com/jlsjefferson",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "@material-ui/core": "^4.5.1",
+        "@material-ui/icons": "^4.5.1",
+        "@material-ui/styles": "^4.10.0",
+        "axios": "^0.19.0",
+        "bootstrap": "^4.3.1",
+        "dotenv": "^8.2.0",
+        "firebase": "^6.2.4",
+        "font-awesome": "^4.7.0",
+        "intro.js": "^2.9.3",
+        "intro.js-react": "^0.2.0",
+        "material-table": "^1.52.0",
+        "node-sass": "^4.12.0",
+        "react": "^16.10.2",
+        "react-adal": "^0.5.0",
+        "react-csv": "^1.1.1",
+        "react-dom": "^16.10.2",
+        "react-draggable": "^3.3.0",
+        "react-leaflet": "^2.4.0",
+        "react-notifications": "^1.4.3",
+        "react-notifications-component": "^2.0.7",
+        "react-router-dom": "^5.0.1",
+        "react-scripts": "3.2.0",
+        "reactstrap": "^8.0.1",
+        "semantic-ui-react": "^0.87.2"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ],
+    "devDependencies": {
+        "react-native-dotenv": "^0.2.0"
+    }
+}
