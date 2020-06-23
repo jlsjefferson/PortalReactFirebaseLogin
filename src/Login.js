@@ -3,7 +3,6 @@ import { withRouter, Redirect } from "react-router";
 import app from "./firebase/base";
 import { AuthContext } from "./firebase/Auth";
 import "./components/css/login_style.css";
-import Avatar from '@material-ui/core/Avatar';
 import Button from '@material-ui/core/Button';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import TextField from '@material-ui/core/TextField';

@@ -52,7 +52,7 @@ class MenuAppBar extends React.Component {
          <AppBar position="static">
           <Toolbar>
           <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
-          <MenuIcon />
+          <MenuIcon/> 
           </IconButton>
           <img className="logo_header" src={logosemFundo} alt="Tora Transportes"></img>
           <h2>PORTAL BIMO <h3>Tecnologia e Inovação</h3></h2>

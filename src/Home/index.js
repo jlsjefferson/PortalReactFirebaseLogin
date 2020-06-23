@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
-import Card from '@material-ui/core/Card';
-
+import TransitionsModal from "./modelBar/modalTable"
 
 class pnl2 extends React.Component {
 
@@ -10,6 +9,7 @@ class pnl2 extends React.Component {
       <div>
         <Header />
             <div>Pagina em Contrução"</div>
+            <TransitionsModal/>
       </div>
 
     );
